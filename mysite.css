@@ -1,0 +1,33 @@
+vim css.css
+[Yesterday 16:29] Ruchika Scott
+div {
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+  }
+
+body {
+    background-color: rgb(255, 250, 225);
+  }
+  
+  h1 {
+    color: rgb(12, 1, 24);
+    background-color: rgb(192, 25, 116);
+    text-align: center;
+    font-family: Garamond;
+    font-size: 4rem;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 1rem;
+  }
+
+.header {
+    padding: 60px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
+  }
